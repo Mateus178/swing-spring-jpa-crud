@@ -14,7 +14,7 @@ public class Main {
 	
 	public static void main(String[] args) {
             
-            String teste = "123";
+            String teste = "321";
 		Locale.setDefault(new Locale("pt","BR"));
 		new ClassPathXmlApplicationContext("META-INF/spring-config.xml");
 	}
